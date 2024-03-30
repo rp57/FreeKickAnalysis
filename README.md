@@ -4,4 +4,4 @@ I took a look at Free Kicks in the 2018-19 Season to see what players overperfor
 
 Data courtesy of: Pappalardo, Luca; Massucco, Emanuele (2019). Events. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7770599.v1
 
-Medium Article: 
+Medium Article: https://medium.com/@xRPx7/using-logistic-regression-to-model-free-kicks-accuracy-d9e14c3c3972
